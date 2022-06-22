@@ -5,7 +5,7 @@
 
 #link1{
     color: bisque;
-    font-weight: 69;
+    font-weight: calc(4*69);
 }
 
 
@@ -13,12 +13,10 @@
 #navbar{
     color: bisque;
     font-weight: 420;
-    font-style: italic;
 }
 
 #paragraph1{
-    background-color: turquoise;
-    max-width: 15cm;
+    font-size: x-small;
 }
 
 
@@ -28,6 +26,108 @@ img{
     height: auto;
     max-height: 100%;
     margin-top: 40px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: limegreen;
+}
+
+#heading2ab{
+    margin-top: 40px;
+    background-color: aqua;
+    border-radius: 8px;
 }
 
 
+footer{
+    margin-top: 100px;
+}
+
+#button1{
+    margin-top: 20px;
+    background-color: limegreen;
+    color: black;
+    border-color: limegreen;
+}
+
+#label1{
+    margin-top: 20px;
+}
+
+
+#heading4ab{
+    margin-top: 100px;
+}
+
+
+#paragraph2{
+    background-color: rgba(0, 255, 255, 0.509);
+    
+}
+
+
+#container66{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F225405%2Fpexels-photo-225405.jpeg%3Fcs%3Dsrgb%26dl%3Danimal-head-lizard-225405.jpg%26fm%3Djpg&f=1&nofb=1);
+    background-size: 150%;
+    
+}
+
+#containerf{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.pexels.com%2Fphotos%2F5521%2Fanimal-green-frog.jpg&f=1&nofb=1);
+    background-size: 150%;
+}
+
+
+#table1{
+    background-color: rgba(0, 255, 255, 0.503);
+}
+
+
+#containere{
+    background-size: 150%;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.goodfreephotos.com%2Falbums%2Fanimals%2Freptiles-and-amphibians%2Fcollared-lizard-closeup.jpg&f=1&nofb=1);
+}
+
+
+#paragraph3{
+    background-color: rgba(50, 205, 50, 0.471);
+    border-radius: 8px;
+}
+
+
+#containers{
+
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpixnio.com%2Ffree-images%2F2018%2F11%2F19%2F2018-11-19-17-49-35.jpg&f=1&nofb=1);
+    background-size: 150%;
+}
+
+
+#containert{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1618606%2Fpexels-photo-1618606.jpeg%3Fcs%3Dsrgb%26dl%3Dphoto-of-hawksbill-sea-turtle-1618606.jpg%26fm%3Djpg&f=1&nofb=1);
+    background-size: 150%;
+}
+
+
+#containera{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F4190864%2Fpexels-photo-4190864.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-petr-ganaj-4190864.jpg%26fm%3Djpg&f=1&nofb=1);
+    background-size: 150%;
+}
+
+
+#heading4ab{
+    margin-top: 40px;
+}
+
+
+#galleryindex{
+    margin-bottom: 40px;
+}
+
+
+#home{
+    margin-bottom: 40px;
+}
+
+
+#maintitle{
+    margin-top: 100px;
+}
