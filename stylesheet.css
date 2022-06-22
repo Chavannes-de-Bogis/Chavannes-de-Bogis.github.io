@@ -75,7 +75,7 @@ footer{
 
 #containerf{
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.pexels.com%2Fphotos%2F5521%2Fanimal-green-frog.jpg&f=1&nofb=1);
-    background-size: 150%;
+    background-size: 170%;
     background-position: 50%;
 }
 
@@ -94,7 +94,7 @@ footer{
 
 
 #paragraph3{
-    background-color: rgba(50, 205, 50, 0.672);
+    background-color: rgba(50, 205, 50, 0.774);
     border-radius: 8px;
     margin-bottom: 20px;
     margin-top: 20px;
@@ -159,6 +159,6 @@ footer{
 
 #title1{
     margin-top: 100px;
-    background-color: rgba(0, 255, 255, 0.509);
+    background-color: rgba(0, 255, 255, 0.75);
     border-radius: 8px;
 }
