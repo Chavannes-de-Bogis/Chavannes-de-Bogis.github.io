@@ -38,8 +38,10 @@ img{
 }
 
 
-footer{
+#footer{
     margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.445);
+    color: white;
 }
 
 #button1{
@@ -111,14 +113,14 @@ footer{
 
 #containert{
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1618606%2Fpexels-photo-1618606.jpeg%3Fcs%3Dsrgb%26dl%3Dphoto-of-hawksbill-sea-turtle-1618606.jpg%26fm%3Djpg&f=1&nofb=1);
-    background-size: 150%;
+    background-size: 160%;
     background-position: 50%;
 }
 
 
 #containera{
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F4190864%2Fpexels-photo-4190864.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-petr-ganaj-4190864.jpg%26fm%3Djpg&f=1&nofb=1);
-    background-size: 160%;
+    background-size: 180%;
     background-position: 50%;
 }
 
@@ -161,4 +163,11 @@ footer{
     margin-top: 100px;
     background-color: rgba(0, 255, 255, 0.75);
     border-radius: 8px;
+}
+
+
+
+#link2{
+    color: white;
+    
 }
