@@ -28,7 +28,7 @@ img{
     margin-top: 40px;
     border-radius: 30px;
     border-style: solid;
-    border-color: limegreen;
+    border-color: black;
 }
 
 #heading2ab{
@@ -60,37 +60,44 @@ footer{
 
 
 #paragraph2{
-    background-color: rgba(0, 255, 255, 0.509);
+    background-color: rgba(0, 255, 255, 0.688);
+    border-radius: 8px;
     
 }
 
 
 #container66{
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F225405%2Fpexels-photo-225405.jpeg%3Fcs%3Dsrgb%26dl%3Danimal-head-lizard-225405.jpg%26fm%3Djpg&f=1&nofb=1);
-    background-size: 150%;
+    background-size: 300%;
+    background-position: 50%;
     
 }
 
 #containerf{
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.pexels.com%2Fphotos%2F5521%2Fanimal-green-frog.jpg&f=1&nofb=1);
     background-size: 150%;
+    background-position: 50%;
 }
 
 
 #table1{
     background-color: rgba(0, 255, 255, 0.503);
+    margin-bottom: 40px;
 }
 
 
 #containere{
     background-size: 150%;
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.goodfreephotos.com%2Falbums%2Fanimals%2Freptiles-and-amphibians%2Fcollared-lizard-closeup.jpg&f=1&nofb=1);
+    background-position: 50%;
 }
 
 
 #paragraph3{
-    background-color: rgba(50, 205, 50, 0.471);
+    background-color: rgba(50, 205, 50, 0.672);
     border-radius: 8px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 
@@ -98,18 +105,21 @@ footer{
 
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpixnio.com%2Ffree-images%2F2018%2F11%2F19%2F2018-11-19-17-49-35.jpg&f=1&nofb=1);
     background-size: 150%;
+    background-position: 50%;
 }
 
 
 #containert{
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1618606%2Fpexels-photo-1618606.jpeg%3Fcs%3Dsrgb%26dl%3Dphoto-of-hawksbill-sea-turtle-1618606.jpg%26fm%3Djpg&f=1&nofb=1);
     background-size: 150%;
+    background-position: 50%;
 }
 
 
 #containera{
     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F4190864%2Fpexels-photo-4190864.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-petr-ganaj-4190864.jpg%26fm%3Djpg&f=1&nofb=1);
-    background-size: 150%;
+    background-size: 160%;
+    background-position: 50%;
 }
 
 
@@ -119,7 +129,10 @@ footer{
 
 
 #galleryindex{
-    margin-bottom: 40px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 
@@ -130,4 +143,22 @@ footer{
 
 #maintitle{
     margin-top: 100px;
+    font-weight: 600;
+}
+
+
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#paragrapho2{
+    background-color: rgba(0, 255, 255, 0.509);
+}
+
+
+#title1{
+    margin-top: 100px;
+    background-color: rgba(0, 255, 255, 0.509);
+    border-radius: 8px;
 }
